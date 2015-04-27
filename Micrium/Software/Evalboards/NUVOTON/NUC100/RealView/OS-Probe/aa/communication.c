@@ -35,7 +35,7 @@
 
 uint32_t u32Data[5];    
 
-#define DSP_UART_TIME_OUT 50 //300
+#define DSP_UART_TIME_OUT   5//50 //300
 unsigned int Countflag = 0 ; 
 
 volatile uint8_t buffer[64]; 
