@@ -17,6 +17,17 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+
+*.WK3
+*.bak
+obj/
+lst/
+Sample/
+Example/
+*.pdf
+*.htm
+USB/
+*.dep
 # =========================
 # Operating System Files
 # =========================
